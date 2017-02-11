@@ -35,3 +35,5 @@ function ag_filter_post_json($response, $post, $context) {
 }
 
 add_filter( 'rest_prepare_post', 'ag_filter_post_json', 10, 3 );
+
+?>
