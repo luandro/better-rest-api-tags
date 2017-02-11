@@ -1,16 +1,16 @@
 {
-  "name": "better-rest-api-featured-images",
+  "name": "better-rest-api-tags",
   "version": "1.2.1",
-  "description": "Adds a top-level field with featured image data including available sizes and URLs to the post object returned by the REST API.",
+  "description": "Adds a top-level field with tags data including name instead of id to the post object returned by the REST API.",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo 'working'"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BraadMartin/better-rest-api-featured-images.git"
+    "url": "https://github.com/luandro/better-rest-api-tags.git"
   },
-  "author": "BraadMartin",
+  "author": "Luandro",
   "license": "GPL",
   "devDependencies": {
     "grunt": "~0.4.5",
